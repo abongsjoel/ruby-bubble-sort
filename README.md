@@ -2,6 +2,8 @@
 
 > In this project I built a simple Bubble sort algorithm using Ruby
 
+![screenshot](../features/screenshot1.png)
+![screenshot](../features/screenshot2.png)
 
 The project built a method #bubble_sort that takes an array of numbers and returns a sorted array, as well as a method #bubble_sort_by that takes an array of strings and a block and uses yield to read the block and return  an array of strings sorted by the length of the strings.
 
