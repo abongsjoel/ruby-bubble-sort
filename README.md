@@ -1,6 +1,6 @@
 # Ruby Bubble Sort
 
-> In this project I built a simple Bubble sort algorithm using Ruby
+> In this project, I built a simple Bubble sort algorithm using Ruby
 
 ![screenshot](../features/screenshot1.png)
 ![screenshot](../features/screenshot2.png)
@@ -11,6 +11,11 @@ The project built a method #bubble_sort that takes an array of numbers and retur
 ## Built With
 
 - Ruby
+
+## Live Demo
+
+[Live Demo](https://repl.it/@abongsjoel/RubyBubbleSort)
+
 
 
 ## Author
