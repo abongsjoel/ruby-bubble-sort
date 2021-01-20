@@ -38,7 +38,7 @@ The project built a method #bubble_sort that takes an array of numbers and retur
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/abongsjoel/ruby-bubble-sort/issues/2).
+Feel free to check the [issues page](https://github.com/abongsjoel/ruby-bubble-sort/issues/).
 
 
 ## Show your support
