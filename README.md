@@ -1,3 +1,5 @@
+![](https://img.shields.io/badge/Microverse-blueviolet)
+
 # Ruby Bubble Sort
 
 > In this project, I built a simple Bubble sort algorithm using Ruby
@@ -45,4 +47,4 @@ Feel free to check the [issues page](https://github.com/abongsjoel/ruby-bubble-s
 Give a ⭐️ if you like this project!
 
 ## License
-  <p>This project is <a href="../features/LICENSE">MIT</a> licensed.</p>
+  <p>This project is <a href="../main/LICENSE">MIT</a> licensed.</p>
